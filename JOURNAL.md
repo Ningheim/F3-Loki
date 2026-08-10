@@ -30,7 +30,7 @@ I accidentally forgot to pause the lapse a few times so I went back through it a
 | **Electronics** | Teensy 4.1 microcontroller (or similar) | $32.00 | 1 | $32.00 | Main flight controller |
 | **Electronics** | BMI088 IMU (or similar) | $20.00 | 1 | $20.00 | |
 | **Electronics** | ADXL375 Accelerometer (or similar) | $22.00 | 1 | $22.00 | High-G data logging |
-| **Electronics** | BMP585 Barometer (or similar) | $5.00 | 1 | $5.00 | Alt Reading |
+| **Electronics** | BMP585 Barometer (or similar) | $5.00 | 1 | $5.00 | Altitude Reading |
 | **Electronics** | microSD card | $20.00 | 1 | $20.00 | Telemetry logging |
 | **Electronics** | LiPo Battery System (Servos) | $60.00 | 1 | $60.00 | Dedicated actuation power |
 | **Electronics** | Fuse | $0.00 | 1 | $0.00 | Price omitted in source |
