@@ -51,7 +51,7 @@ I accidentally forgot to pause the lapse a few times so I went back through it a
 # 8/16/2026
 **Total Hours Spent: 3 Hours**  LAPSE
 
-I just got my pitch approved for funding so I began working on the body design of the rocket. I decided to move forward with the H148R rocket motors even though they are reloadable (meaning they come disassembled) which might pose a risk of explosion if I assemble them wrong. But I'm pretty confident in the success of the rocket so it shouldn't be a problem. Here's a rundown of the parts I decided to start off with for the rocket body itself:
+I just got my pitch approved for funding so I began working on the body design of the rocket. I decided to move forward with either the H148R or H130W rocket motors even though they are reloadable (meaning they come disassembled) which might pose a risk of explosion if I assemble them wrong. But I'm pretty confident in the success of the rocket so it shouldn't be a problem. Here's a rundown of the parts I decided to start off with for the rocket body itself:
 
 - 2x 34" Airframes; 4" Diameter
 - Electronics Bay; Shown in OpenRocket as a Coupler
@@ -70,4 +70,5 @@ I just got my pitch approved for funding so I began working on the body design o
 - 3x Plastic Retainers
 - Misc L Brackets, Screws, and Rivets
 
-<img width="1796" height="433" alt="image" src="https://github.com/user-attachments/assets/0a20202a-5ef1-49e4-b677-df75cb355f89" />
+<img width="1919" height="594" alt="image" src="https://github.com/user-attachments/assets/cd56825d-7b6a-4ab2-a5da-54f1701211a4" />
+
