@@ -2,7 +2,7 @@
 Title: "F3-LOKI"
 Author: "Freedom"
 Description: "The F-3 Loki is a 4in diameter Tri-Cluster model rocket powered by a trio of H148R motors and advanced sensory systems. And data from these systems will be sent to a ground station in real time."
-Created_At: "2026-08-16"
+Created_At: "2026-08-10"
 ---
 
 # 8/10/2026
