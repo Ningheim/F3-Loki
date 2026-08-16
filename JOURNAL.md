@@ -83,4 +83,4 @@ I just got my pitch approved for funding so I began working on the body design o
 
 <img width="1919" height="594" alt="image" src="https://github.com/user-attachments/assets/cd56825d-7b6a-4ab2-a5da-54f1701211a4" />
 
-**Total Hours Spent: 3 Hours**
+**Total Hours Spent: 3.2 Hours**
