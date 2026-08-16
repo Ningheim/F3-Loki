@@ -1,0 +1,1 @@
+The F-3 Loki is a 4 inch diameter Tri-Cluster high power rocket. It will use an identical trio of 38mm motors hand in hand with advanced sensors and electronics systems; and data from these systems will be sent to a ground station in real time. This is a pretty large scale project and, after my recent rocket launch, I think this project is extremely attainable.
