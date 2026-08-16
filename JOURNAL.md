@@ -60,7 +60,7 @@ I accidentally forgot to pause the lapse a few times so I went back through it a
 
 # 8/16/2026
 
-LAPSE
+[LAPSE](https://lapse.hackclub.com/timelapse/eRiTfIrgfZ2i)
 
 I just got my pitch approved for funding so I began working on the body design of the rocket. I decided to move forward with either the H148R or H130W rocket motors even though they are reloadable (meaning they come disassembled) which might pose a risk of explosion if I assemble them wrong. But I'm pretty confident in the success of the rocket so it shouldn't be a problem. Here's a rundown of the parts I decided to start off with for the rocket body itself:
 
