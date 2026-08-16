@@ -1,5 +1,6 @@
 # 8/10/2026
-**Total Hours Spent: 4 Hours**  [LAPSE](https://lapse.hackclub.com/timelapse/4Jb6bSo9zxdq)
+**Total Hours Spent: 4 Hours**
+[LAPSE](https://lapse.hackclub.com/timelapse/4Jb6bSo9zxdq)
 
 I accidentally forgot to pause the lapse a few times so I went back through it and I spent about 4 hours actually doing work compared to the 6 that were recorded. Anyways, I spent today gathering info and data to add to my pitch for it to get funded. I just finished my L1 certification so I feel confident in the feasibility of the project. This is the BOM I came up with for now:
 
@@ -49,7 +50,8 @@ I accidentally forgot to pause the lapse a few times so I went back through it a
 <img width="1488" height="631" alt="image" src="https://github.com/user-attachments/assets/0dcad4d5-2dde-4c6b-be0d-3b2eba22cd58" />
 
 # 8/16/2026
-**Total Hours Spent: 3 Hours**  LAPSE
+**Total Hours Spent: 3 Hours**
+LAPSE
 
 I just got my pitch approved for funding so I began working on the body design of the rocket. I decided to move forward with either the H148R or H130W rocket motors even though they are reloadable (meaning they come disassembled) which might pose a risk of explosion if I assemble them wrong. But I'm pretty confident in the success of the rocket so it shouldn't be a problem. Here's a rundown of the parts I decided to start off with for the rocket body itself:
 
