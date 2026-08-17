@@ -72,7 +72,7 @@ I just got my pitch approved for funding so I began working on the body design o
 - 12" 3/8in Tubular Nylon Shock Cord
 - 15" 1/4in Tubular Kevlar Shock Cord
 - 4 Quick Links
-- 2 Nickel PlatedSwivels
+- 2 Nickel Plated Swivels
 - 3x 14" Motor Mount Tubes; 38mm Diameter
 - 3x Cluster Centering Rings
 - 50" Parachute
@@ -84,3 +84,24 @@ I just got my pitch approved for funding so I began working on the body design o
 <img width="1919" height="594" alt="image" src="https://github.com/user-attachments/assets/cd56825d-7b6a-4ab2-a5da-54f1701211a4" />
 
 **Total Hours Spent: 3.2 Hours**
+
+# 8/17/2026
+
+[LAPSE](https://lapse.hackclub.com/timelapse/rrRoP17w8IL1)
+
+Today I decided to adjust the scope of the project so that the rocket will be able to withstand supersonic stresses generated from L2 motors. I'm almost 18 and I think it would be nice if this rocket could also be used with stronger motors if I just choose to switch out the fins via the screwed on L brackets that allow me to do so. So since I want this rocket to be usable with higher power motors (Specifically the K1127LB-14A) I upgraded the materials a bit and chose to change the composition of a lot of the parts to Phenolic and Fiberglass to improve durability. Specifically the plan is:
+
+- A Pre-glassed aft 34" airframe permanently coupled with a Phenolic DIY fiberglassed 36" airframe. The coupler between the two will be a 36" Phenolic tube with a slightly smaller diameter.
+- 1/4in Plywood fins, 1/4in Plywood centering rings, and a whole set of Phenolic motor mount tubes to handle the potential heat from L2 rockets.
+- Plastic foam-filled weighted LOC nosecone to ensure it withstands the potential Mach 2 forces of stronger motors.
+- A completely Kevlar shock cord system with 5/16" quick links rated for 1760 lbs. along with a Phenolic E-bay and a set of NOMEX blankets that are both 12in squares compared to the "1 small 1 big" setup from before.
+- Metal retainers for strength
+
+So I just made sure that this rocket will at least last or withstand the thrust produced by most L2, 38mm Motors I'll be looking to cluster into this rocket. The images below show the potential L2 build (Top) and the potential normal L1 build (bottom):
+
+<img width="1821" height="473" alt="image" src="https://github.com/user-attachments/assets/5c88e1b8-912a-48a1-a573-64b66a407414" />
+<img width="1832" height="476" alt="image" src="https://github.com/user-attachments/assets/345e23cf-ec79-4c3c-adc5-7a7a56fd25ef" />
+
+And the only thing that will really have to change between the two models is the fin height. So I'll stick with the modularity idea I had from before and keep the ability to screw and unscrew them via multiple heavy duty L brackets with the screws taped over for security. Not really sure if it will work or not since I'm the first to do this but I think it'll be fine 😅
+
+**Total Hours Spent: 5.8 Hours**
