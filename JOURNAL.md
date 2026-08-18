@@ -9,6 +9,8 @@ Created_At: "2026-08-10"
 
 [LAPSE](https://lapse.hackclub.com/timelapse/4Jb6bSo9zxdq)
 
+**Total Time Spent: 4 Hours**
+
 I accidentally forgot to pause the lapse a few times so I went back through it and I spent about 4 hours actually doing work compared to the 6 that were recorded. Anyways, I spent today gathering info and data to add to my pitch for it to get funded. I just finished my L1 certification so I feel confident in the feasibility of the project. This is the BOM I came up with for now:
 
 | Category | Component Description | Unit Price | Qty | Subtotal | Notes |
@@ -56,11 +58,11 @@ I accidentally forgot to pause the lapse a few times so I went back through it a
 
 <img width="1488" height="631" alt="image" src="https://github.com/user-attachments/assets/0dcad4d5-2dde-4c6b-be0d-3b2eba22cd58" />
 
-**Total Hours Spent: 4 Hours**
-
 # 8/16/2026
 
 [LAPSE](https://lapse.hackclub.com/timelapse/eRiTfIrgfZ2i)
+
+**Total Time Spent: 3.2 Hours**
 
 I just got my pitch approved for funding so I began working on the body design of the rocket. I decided to move forward with either the H148R or H130W rocket motors even though they are reloadable (meaning they come disassembled) which might pose a risk of explosion if I assemble them wrong. But I'm pretty confident in the success of the rocket so it shouldn't be a problem. Here's a rundown of the parts I decided to start off with for the rocket body itself:
 
@@ -83,11 +85,11 @@ I just got my pitch approved for funding so I began working on the body design o
 
 <img width="1919" height="594" alt="image" src="https://github.com/user-attachments/assets/cd56825d-7b6a-4ab2-a5da-54f1701211a4" />
 
-**Total Hours Spent: 3.2 Hours**
-
 # 8/17/2026
 
 [LAPSE](https://lapse.hackclub.com/timelapse/rrRoP17w8IL1)
+
+**Total Time Spent: 5.8 Hours**
 
 Today I decided to adjust the scope of the project so that the rocket will be able to withstand supersonic stresses generated from L2 motors. I'm almost 18 and I think it would be nice if this rocket could also be used with stronger motors if I just choose to switch out the fins via the screwed on L brackets that allow me to do so. So since I want this rocket to be usable with higher power motors (Specifically the K1127LB-14A) I upgraded the materials a bit and chose to change the composition of a lot of the parts to Phenolic and Fiberglass to improve durability. Specifically the plan is:
 
@@ -104,4 +106,10 @@ So I just made sure that this rocket will at least last or withstand the thrust 
 
 And the only thing that will really have to change between the two models is the fin height. So I'll stick with the modularity idea I had from before and keep the ability to screw and unscrew them via multiple heavy duty L brackets with the screws taped over for security. Not really sure if it will work or not since I'm the first to do this but I think it'll be fine 😅
 
-**Total Hours Spent: 5.8 Hours**
+# 8/18/2026
+
+LAPSE
+
+**Total Time Spent: 0.2 Hours**
+
+Started the day off in the morning and fixed a Github journaling error that didn't allow my hours to sync onto forge. Previously, I had "Total Hours Spent" instead of "Total Time Spent" and I guess it couldn't register because my wording was off. Fixed it all now though.
