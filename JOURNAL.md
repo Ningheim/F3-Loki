@@ -108,8 +108,10 @@ And the only thing that will really have to change between the two models is the
 
 # 8/18/2026
 
-LAPSE
+[LAPSE](https://lapse.hackclub.com/timelapse/28v7v-m0GhfF)
 
 **Total Time Spent: 0.2 Hours**
 
 Started the day off in the morning and fixed a Github journaling error that didn't allow my hours to sync onto forge. Previously, I had "Total Hours Spent" instead of "Total Time Spent" and I guess it couldn't register because my wording was off. Fixed it all now though.
+
+<img width="501" height="172" alt="image" src="https://github.com/user-attachments/assets/38b42b6d-0496-461f-954f-da5c23d1a203" />
